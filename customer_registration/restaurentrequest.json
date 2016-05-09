@@ -1,0 +1,28 @@
+{
+	"restaurentid" : 12312,
+	"restaurentname": "daksfjlka",
+	"businessphonenumber": "342-234-1232",
+	"emailaddress":"daflkada@ga.com",
+	"addressline1" : "dfdsakljdklfja",
+	"addressline2" : "dfdsakljdklfja",
+	"city" : "dsalfk",
+	"state" : "daflkds",
+	"zipcode" :"dasflda",
+	"countrycode" : "UK",
+	"isactive" : "Y",
+	"latitude: : -23.234324324,
+	"longitude" : 50.0009234234,
+	"cusineid" : 2131,
+	"restaurentaccount": {
+		"accountid" : 2423432432423,
+		"restaurentid" : 12312,
+		"accounttype": "savings",
+		"bankname" : "dalfalklsdf",
+		"routingnumber" : 432423,
+		"accountholdername" : "sdkalfjakl",
+		"settlementdate" : "2012-04-23T18:25:43.511Z",
+		"billingstatementdate" : "2012-04-23T18:25:43.511Z",
+		"billingenddate" : "2012-04-23T18:25:43.511Z"
+	}
+	
+}
