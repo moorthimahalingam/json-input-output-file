@@ -1,0 +1,36 @@
+{
+  "order_id" : "",
+  "customer_id": 234324234,
+  "restaurant_id" : 24234234,
+  "machinfo" : "234fasfdaf234@#4a",
+  "orderstatus" : "Order placed",
+  "Menus" : [
+  {
+			"menu_id" : "23432",
+			"name" : "chicken briyani",
+			"price" : 12321.1232,
+			"spiceLevel" : "Medium",
+			"specialInstruction" : "Hot and sour",
+			"quantity" : 2,
+			"cuisine_id" : 24324324
+		},
+		{
+			"menu_id" : "23431",
+			"name" : "goat briyani",
+			"price" : 12321.1232,
+			"spiceLevel" : "Medium",
+			"specialInstruction" : "Hot and sour",
+			"quantity" : 2,
+			"cuisine_id" : 24324324
+		}
+  ],
+  "totalPrice" : 24324.234,
+  "salesTax" : 11.12,
+  "cardInformation" : {
+	"name" : "daskfjkjdf",
+	"creditcardnumber" : 24234324324324,
+	"expirydate" : "12/16",
+	"cvv" : 123
+  }
+  
+}

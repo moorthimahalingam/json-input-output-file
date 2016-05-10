@@ -1,10 +1,22 @@
 {
  "customer_id" : "2342342",
  "machinfo" : "dsajkf34234dafkj@efdsak234",
+ "cuisines" : [
+	{ 
+		"name" : "Italian",
+		"cuisine_id" : 3213213
+	},
+	{
+		"name" : "Indian",
+		"cuisine_id" : 23432423
+	}
+ ],
  "Restaurants": [
   { 
 	"name" : "marketcafe",
 	"restaurant_id" : 234322423,
+	"milesFromCustomerLocation" : 1.5,
+	"cuisine_id" : 24324324,
 	"Menus":[
 		{
 			"menu_id" : "23432",
@@ -13,8 +25,8 @@
 			"price" : 12321.1232,
 			"spiceLevel" : "Medium",
 			"imageURL" : "sdafjskaj@dfa.com",
-			"menuCategory" : "Appetizer",
-			"cuisine_id" : 24324324
+			"menuCategory" : "Appetizer"
+			
 		},
 		{
 			"menu_id" : "23431",
@@ -23,14 +35,15 @@
 			"price" : 12321.1232,
 			"spiceLevel" : "Medium",
 			"imageURL" : "sdafjskaj@dfa.com",
-			"menuCategory" : "Appetizer",
-			"cuisine_id" : 24324324
+			"menuCategory" : "Appetizer"
 		}
 	]
   },
   {
 	"name" : "paradise",
 	"restaurant_id" : 234322421,
+	"milesfromcurrentlocation" : 1.5,
+	"cuisine_id" : 24324324,
 	"Menus":[
 		{
 			"menu_id" : "23432",
@@ -39,8 +52,8 @@
 			"price" : 12321.1232,
 			"spiceLevel" : "Medium",
 			"imageURL" : "sdafjskaj@dfa.com",
-			"menuCategory" : "Appetizer",
-			"cuisine_id" : 24324324
+			"menuCategory" : "Appetizer"
+			
 		},
 		{
 			"menu_id" : "23431",
@@ -49,8 +62,7 @@
 			"price" : 12321.1232,
 			"spiceLevel" : "Medium",
 			"imageURL" : "sdafjskaj@dfa.com",
-			"menuCategory" : "Appetizer",
-			"cuisine_id" : 24324324
+			"menuCategory" : "Appetizer"
 		}
 	]
   }
