@@ -1,0 +1,42 @@
+{
+
+"customer_id" : "2342342",
+ "machinfo" : "dsajkf34234dafkj@efdsak234",
+ "cuisines" : [
+	{ 
+		"name" : "Italian",
+		"cuisine_id" : 3213213
+	},
+	{
+		"name" : "Indian",
+		"cuisine_id" : 23432423
+	}
+ ],
+ "Restaurants": [
+  { 
+	"name" : "marketcafe",
+	"restaurant_id" : 234322423,
+    "restaurant_image_url" : "sdfjaklsdj@.com",
+	"subscribtion_code": "1",
+	"minimumorder" : 10,
+	"delivery_fee" : 5$
+	"restaurant_description" : "sdakfjkldasjlkjdas",
+	"rating": 1,
+	"pricing_category" : 1,
+	"distance" : 1.5,
+	"cuisine_id" : 24324324
+  },
+  {
+	"name" : "paradise",
+	"restaurant_id" : 234322421,
+    "restaurant_image_url" : "sdfjaklsdj@.com",
+	"subscribtion_code": "1",
+	"minimumorder" : 10,
+	"delivery_fee" : 5$
+	"restaurant_description" : "sdakfjkldasjlkjdas",
+	"rating": 1,
+	"pricing_category" : 1,
+	"distance" : 1.5,
+	"cuisine_id" : 24324324
+  }
+}
