@@ -1,10 +1,13 @@
 {
 	"firstname": "Shankar",
-	"middle": "V",
 	"lastname": "C",
+	"dateofbirth" : "2015-12-16",
+	"password" : "shankar",
 	"email": "daskfjkdaj@gmail.com",
 	"mobilephone": "234923942",
 	"workphone": "234923942",
+	"phoneValidationFlag" : "N",
+	"machinfo":"fdaksj32423@#$#@$324243",
 	"SecurityQuestions": {
 		"question1": "dsfkjaj",
 		"answer1": "answer1",
@@ -14,13 +17,26 @@
 	"Address": {
 		"addressline1": "dskja",
 		"addressline2": "dkasjf",
-		"city": "dkjfka",
-		"state": "dsjfak",
-		"postalcode": "daslfkl"
+		"city": "123213",
+		"state": "131231",
+		"postalcode": "dasl121",
+		"country" : "12313",
+		"defaultAddressFlag" : "Y"
 	},
 	"Cardinformation": {
 		"creditcardnumber": "dfkajdkfjaljk",
-		"expirydate": "12/16"
+		"expirydate": "12/16",
+		"Address" : {
+			"addressline1": "dskja",
+			"addressline2": "dkasjf",
+			"city": "123213",
+			"state": "131231",
+			"postalcode": "dasl121",
+			"country" : "12313",
+			"defaultAddressFlag" : "Y"
+		}
 	},
-	"machinfo":"fdaksj32423@#$#@$324"
+	"DeviceInfo" : {
+		"machinfo":"fdaksj32423@#$#@$324"
+	}
 }
